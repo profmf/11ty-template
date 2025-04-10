@@ -1,0 +1,8 @@
+{
+  "name": "11ty-template",
+  "description": "An 11ty blog template",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve"
+  }
+}
